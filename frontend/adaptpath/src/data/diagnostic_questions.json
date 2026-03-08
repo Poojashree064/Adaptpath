@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is NOT an OS?",
+    "options": ["Windows", "Linux", "Android", "Oracle DB"],
+    "answer": 3
+  },
+  {
+    "id": 2,
+    "question": "What is 15 + 27?",
+    "options": ["32", "42", "40", "37"],
+    "answer": 1
+  }
+]
